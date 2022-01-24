@@ -1,0 +1,33 @@
+Enter your password: 1234
+Your password is wrong! You have 2 chance to try again. 
+Enter your password: 12
+Your password is wrong! You have 1 chance to try again. 
+Enter your password: 12345
+Your password is correct.
+Options to access:
+1)Price Calculation for Bread
+2)Bill Payment
+Enter the option that want to access: 2
+
+Chocolate bread: RM6.12
+Garlic bread: RM4.11
+Butter sugar bread: RM4.12
+Red bean bread: RM4.52
+
+Do you have membership card?
+0 = NO
+1 = YES
+Enter number: 1
+Enter the membership card number: 56789
+
+Quantity of chocolate bread: 3
+Quantity of garlic bread: 2
+Quantity of butter sugar bread: 3
+Quantity of red bean bread: 1
+
+Total price      : RM43.46
+Discount received: RM4.35
+Price to be paid : RM39.11
+
+Amount received: RM50
+Change 	       : RM10.89
